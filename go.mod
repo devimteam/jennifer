@@ -1,1 +1,1 @@
-module github.com/dave/jennifer
+module github.com/devimteam/jennifer
