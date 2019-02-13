@@ -3,7 +3,7 @@ package jen_test
 import (
 	"testing"
 
-	. "github.com/dave/jennifer/jen"
+	. "github.com/devimteam/jennifer/jen"
 )
 
 var gencases = []tc{

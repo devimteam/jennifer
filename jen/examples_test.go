@@ -5,7 +5,7 @@ import (
 
 	"bytes"
 
-	. "github.com/dave/jennifer/jen"
+	. "github.com/devimteam/jennifer/jen"
 )
 
 func ExampleCaseBug() {
